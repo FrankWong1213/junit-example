@@ -9,9 +9,7 @@ package com.yellow.junit;
  */
 public class Calculator {
 
-	
 	private static int result; // Static variable where the result is stored
-
 
 	/** 
 	 * @Description:  加法
@@ -66,7 +64,6 @@ public class Calculator {
 		for (;;)
 			; // Bug : loops indefinitely
 	}
-
 
 	/** 
 	 * @Description:  复位操作
