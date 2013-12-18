@@ -9,6 +9,7 @@ package com.yellow.junit;
  */
 public class Calculator {
 
+	
 	private static int result; // Static variable where the result is stored
 
 
