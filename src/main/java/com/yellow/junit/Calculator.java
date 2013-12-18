@@ -11,6 +11,7 @@ public class Calculator {
 
 	private static int result; // Static variable where the result is stored
 
+
 	/** 
 	 * @Description:  加法
 	 * @param:        @param n    
