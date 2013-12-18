@@ -65,6 +65,8 @@ public class Calculator {
 			; // Bug : loops indefinitely
 	}
 
+	
+	
 	/** 
 	 * @Description:  复位操作
 	 * @param:            
@@ -82,6 +84,4 @@ public class Calculator {
 	public int getResult() {
 		return result;
 	}
-	
-	
 }
