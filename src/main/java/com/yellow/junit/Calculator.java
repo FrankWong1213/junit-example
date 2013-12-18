@@ -82,4 +82,6 @@ public class Calculator {
 	public int getResult() {
 		return result;
 	}
+	
+	
 }
