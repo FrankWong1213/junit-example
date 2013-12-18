@@ -10,6 +10,7 @@
 	<name>junit-example</name>
 	<url>http://maven.apache.org</url>
 
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -21,5 +22,6 @@
 			<version>4.8.2</version>
 			<scope>test</scope>
 		</dependency>
+		
 	</dependencies>
 </project>
